@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class SceneManager : MonoBehaviour
+public class PlanetSceneManager : MonoBehaviour
 {
 
     public float planetRotSpeed = 1.0f;
