@@ -1,1 +1,2 @@
-Assets/Chess[[:space:]]Set/Chess[[:space:]]Set.fbx filter=lfs diff=lfs merge=lfs -text
+Assets/Packages/Chess[[:space:]]Set/Chess[[:space:]]Set.fbx filter=lfs diff=lfs merge=lfs -text
+Assets/Packages/Wizards[[:space:]]Code/Terrains/Hills,[[:space:]]Mountains[[:space:]]and[[:space:]]Lakes/Textures/Grass003_4K_NormalDX.png filter=lfs diff=lfs merge=lfs -text
